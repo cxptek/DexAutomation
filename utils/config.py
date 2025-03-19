@@ -1,1 +1,1 @@
-BASE_URL = 'https://admin-uat.25fit.com'
+BASE_URL = 'https://qc.cex-partner-v2.vcex.network/'
